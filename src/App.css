@@ -17,8 +17,12 @@ h1 {
   padding: 0 36px;
   margin-bottom: 16px;
 }
-p {
+p.App--p {
   margin: 0 0 49px 0;
   padding: 0 36px;
   width: 320px;
+}
+.app--experiences {
+  display: flex;
+  overflow: scroll;
 }
